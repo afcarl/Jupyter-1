@@ -4,9 +4,6 @@
 # Data License
 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
 
-# Data Source
- [538 GitHub repo, nfl-fandom](https://github.com/fivethirtyeight/data/blob/master/nfl-fandom/README.md).
-
 # Data documentation from 538
 Data behind the story [How Every NFL Team’s Fans Lean Politically](https://fivethirtyeight.com/features/how-every-nfl-teams-fans-lean-politically).
 
