@@ -7,7 +7,7 @@ Quilt data packages for Jupyter.
 # Data License
 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
 
-# [Data Documentation](https://github.com/fivethirtyeight/data/blob/master/nfl-fandom/README.md).
+# Data Documentation from 538
 
 Data behind the story [How Every NFL Team’s Fans Lean Politically](https://fivethirtyeight.com/features/how-every-nfl-teams-fans-lean-politically).
 
